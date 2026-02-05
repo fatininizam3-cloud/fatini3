@@ -1,0 +1,5 @@
+{
+  "name": "InsightAgent - AI Data Dashboard Analyst",
+  "description": "A high-performance AI agent dashboard that analyzes your data to provide instant totals, comparisons, and strategic business insights using Gemini 3.",
+  "requestFramePermissions": []
+}
